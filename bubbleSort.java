@@ -49,5 +49,4 @@ class  bubbleSort {
     }
 }
 
-// This code is contributed
-// by Nikita Tiwari.
+
