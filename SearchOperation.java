@@ -1,8 +1,7 @@
 
 class searchOperation {
 
-	// Function to implement
-	// search operation
+	
 	static int findElement(int arr[], int n, int key)
 	{
 		for (int i = 0; i < n; i++)
