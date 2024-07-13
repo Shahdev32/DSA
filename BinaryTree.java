@@ -1,4 +1,4 @@
-// Java program to find height of tree
+
 
 // A binary tree node
 class Node {
