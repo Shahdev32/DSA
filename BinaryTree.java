@@ -1,6 +1,4 @@
 
-
-// A binary tree node
 class Node {
 	int data;
 	Node left, right;
